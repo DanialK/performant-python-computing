@@ -1,0 +1,7 @@
+jupyterlab
+tensorflow-gpu
+dask
+distributed
+cupy
+dask-cuda
+numba
